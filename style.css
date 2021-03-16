@@ -3,4 +3,8 @@ body{
     background: black;
     color: white;
     font-size: 30px;
+    background: lightcoral;
+}
+h2{
+    color: #323132;
 }
